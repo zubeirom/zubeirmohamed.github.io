@@ -134,10 +134,19 @@
     margin-left: 10vw;
     text-decoration: none;
 }
-.underline-div{
+#underline-div-1{
+    position: absolute;
     border-bottom: 0.6vw solid #28DEB1;
-    width: 4vw;
-    margin-left: 11vw; 
+    width: 9vw;
+    margin-left: 10vw;
+    margin-top: 6vw; 
+}
+#underline-div-2{
+    position: absolute;
+    border-bottom: 0.6vw solid #2E4975;
+    width: 9vw;
+    margin-left: 58.5vw;
+    margin-top: 5.5vw; 
 }
 .about-me-text{
     margin-left: 10vw;
@@ -196,6 +205,7 @@
     font-weight: 500;
     font-family:  'Montserrat', sans-serif;
     text-decoration: none;
+    margin-top: 1vw;
 }
 .main-underline-div{
     max-width: 100%;
